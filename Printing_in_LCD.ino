@@ -11,7 +11,7 @@ void loop()
 {
   lcd.setBacklight(HIGH);
   lcd.setCursor(3,0);
-  lcd.print("Tari Maano");
+  lcd.print("Hello World");
   lcd.setCursor(4,1);
-  lcd.print("LUND");
+  lcd.print("It's TanayDev");
 }
